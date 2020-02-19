@@ -1,0 +1,14 @@
+{
+    "extension_name": {
+        "message": "Better Pull Request",
+        "description": "Name of extension."
+    },
+    "extension_description": {
+        "message": "Helps you creating Pull Requests much safer.",
+        "description": "Description of extension."
+    },
+    "confirm_create_without_draft": {
+        "message": "Are you sure want to create a Pull Request without draft?",
+        "description": "Message to confirm non-draft PR creation."
+    }
+}

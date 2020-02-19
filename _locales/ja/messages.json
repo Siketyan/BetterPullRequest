@@ -1,0 +1,10 @@
+{
+    "extension_description": {
+        "message": "プルリクエストを、より安全に。",
+        "description": "拡張機能の説明。"
+    },
+    "confirm_create_without_draft": {
+        "message": "下書きなしでプルリクエストを作成してもよろしいですか？",
+        "description": "下書きでないプルリクエストの作成確認メッセージ。"
+    }
+}
